@@ -17,6 +17,8 @@ In this course, electrical engineer and educator Barron Stone guides you through
 
 ### Instructor
 
+
+
 Olivia Chiu Stone 
                             
 Software Development and Systems Engineer
